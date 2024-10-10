@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { FaTimes, FaEdit, FaSave } from 'react-icons/fa'; // Importér FaSave
+import { FaTimes, FaEdit, FaSave } from 'react-icons/fa';
 
 function App() {
     const [tasks, setTasks] = useState([]);
